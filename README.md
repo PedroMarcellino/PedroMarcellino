@@ -1,6 +1,6 @@
 ## Olá, Sou o Pedro Marcellino 👨‍💻
 
-### Cursando Análise de Desenvolvimento de Sistemas 
+### Etec Cursando Análise de Desenvolvimento de Sistemas 
 
 
 ### Redes Sociais
