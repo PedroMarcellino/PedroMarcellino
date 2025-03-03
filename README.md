@@ -2,6 +2,7 @@
 
 ### Etec Cursando Análise de Desenvolvimento de Sistemas 3/3 (ultimo ano)
 
+### sou apaixonado por tecnologia e inovação, estudo na etec e estou cursando ADS e estou sempre em busca de novos conhecimentos
 
 ### Redes Sociais
 
