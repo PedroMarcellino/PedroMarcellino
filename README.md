@@ -7,9 +7,10 @@
 ## Atualmente estudando mais sobre o framework Angular.
 
 ### Redes Sociais:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedromarcellinoo/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marcellino-5241932aa/)
+<div style='display: inline block'><br>
+  <img style='text-align: center' alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedromarcellinoo/'>
+  <img style='text-align: center' alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marcellino-5241932aa/'>
+</div><br>
 
 ### Tecnologias que utilizo:
 <div style='display: inline block'><br>
