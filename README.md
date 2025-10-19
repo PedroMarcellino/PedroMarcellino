@@ -4,7 +4,6 @@
 
 #### Sou apaixonado por tecnologia e inovação. Atualmente, estudo na ETEC e estou no último ano do curso de Análise e Desenvolvimento de Sistemas (ADS). Estou sempre em busca de novos conhecimentos e experiências que ampliem minhas habilidades e contribuam para meu desenvolvimento profissional.
 
-## Atualmente estudando mais sobre o framework Angular.
 
 ### Redes Sociais:
 
