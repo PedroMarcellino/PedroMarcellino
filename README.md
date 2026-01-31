@@ -1,21 +1,41 @@
-## Olá, Sou o Pedro Marcellino 👨‍💻
+<h2 align="center">Olá, Sou o Pedro Marcellino 👨‍💻</h2>
 
-#### Sou apaixonado por tecnologia e inovação. Atualmente, Estou sempre em busca de novos conhecimentos e experiências que ampliem minhas habilidades e contribuam para meu desenvolvimento profissional.
+<h3 align="center">Sou apaixonado por tecnologia e inovação. Atualmente, Estou sempre em busca de novos conhecimentos e experiências que ampliem minhas habilidades e contribuam para meu desenvolvimento profissional.</h3>
 
+###
 
-### Redes Sociais:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedromarcellinoo/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marcellino-5241932aa/)
+###
 
-### Tecnologias que utilizo:
-<div style='display: inline block'><br>
-  <img style='text-align: center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-  <img style='text-align: center' alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-  <img style='text-align: center' alt='JS6' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-  <img style='text-align: center' alt='TypeScript' src='https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white'>
-  <img style='text-align: center' alt='Angular' src='https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=white'>
-  <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-  <img style='text-align: center' alt='Laravel' src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'>
-  <img style='text-align: center' alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
-</div><br>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroMarcellino/PedroMarcellino/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroMarcellino/PedroMarcellino/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroMarcellino/PedroMarcellino/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroMarcellino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroMarcellino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
