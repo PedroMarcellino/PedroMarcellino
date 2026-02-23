@@ -1,6 +1,6 @@
 <h2 align="center">Olá, Sou o Pedro Marcellino 👨‍💻</h2>
 
-<h3 align="center">Sou apaixonado por tecnologia e inovação. Atualmente, Estou sempre em busca de novos conhecimentos e experiências que ampliem minhas habilidades e contribuam para meu desenvolvimento profissional.</h3>
+<h3 align="center">Sou apaixonado por tecnologia e inovação, Estou sempre em busca de novos conhecimentos e experiências que ampliem minhas habilidades e contribuam para meu desenvolvimento profissional.</h3>
 
 ###
 
