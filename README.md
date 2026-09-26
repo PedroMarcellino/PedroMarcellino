@@ -23,9 +23,7 @@ Desenvolvo aplicações web com **Angular** e **Laravel** e apps mobile com **Io
 
 ### Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,laravel,php,mysql,postgres,docker,git,postman" alt="Stack" />
-</p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="42" alt="Angular" title="Angular" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="42" alt="Ionic" title="Ionic" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" title="Node.js" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" alt="Laravel" title="Laravel" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="PHP" title="PHP" />&nbsp; <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" title="MySQL" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="Oracle" title="Oracle" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42" alt="Postman" title="Postman" />&nbsp; </p>
 
 ### Atividade
 
