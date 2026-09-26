@@ -16,17 +16,10 @@
 
 Desenvolvo aplicações web com **Angular** e **Laravel** e apps mobile com **Ionic**. Transformo regras de negócio em funcionalidades, desenvolvo APIs REST, autenticação e controle de permissões, e cuido da publicação e manutenção de sistemas em produção.
 
-- 💼 Desenvolvedor Full-Stack na **Geminis Soluções**
+- 💼 Desenvolvedor Full-Stack
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na **UniSALESIANO**
 - 📚 Estudando arquitetura de software, SQL, PL/SQL e Oracle APEX
 - 📍 Araçatuba/SP
-
-### Projetos em produção
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **Sistema de Gestão Jurídica** | Gestão de processos, clientes, prazos e tarefas para um escritório de advocacia, com permissões por usuário e histórico de auditoria | Angular · Laravel · MySQL |
-| **ERP ImperiumLoungeBar** | ERP para restaurante com emissão de notas fiscais, cardápio digital e fechamento de caixa | — |
 
 ### Stack
 
