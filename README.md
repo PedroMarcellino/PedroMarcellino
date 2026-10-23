@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedor de Software · Full-Stack</b><br>
-  Angular · Ionic · Laravel · PHP
+  Angular · Ionic · Laravel · PHP · ORACLE · ORACLE PL/SQL
 </p>
 
 <p align="center">
